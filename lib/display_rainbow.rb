@@ -1,3 +1,4 @@
+def 
 colors = ["Red","Orange","Yellow", "Green", "Blue", "Indigo", "Violet"]
 puts "R: #{colors[0]}"
 puts "O: #{colors[1]}"
