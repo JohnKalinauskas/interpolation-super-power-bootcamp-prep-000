@@ -1,4 +1,4 @@
-letters = ["Red","Orange","Yellow", "Green", "Blue", "Indigo", "Violet"]
+colors = ["Red","Orange","Yellow", "Green", "Blue", "Indigo", "Violet"]
 puts "R: #{letters[0]}"
 puts "O: #{letters[1]}"
 puts "Y: #{letters[2]}"
